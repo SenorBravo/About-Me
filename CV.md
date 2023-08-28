@@ -4,6 +4,8 @@
 WAIS 
 
 ### Hobbies 
-# Computers
-# Film
-# photos
+Computers
+
+Film
+
+photos
